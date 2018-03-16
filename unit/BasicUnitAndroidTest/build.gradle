@@ -27,6 +27,4 @@ allprojects {
 ext {
     buildToolsVersion = "25.0.0"
     supportLibVersion = "25.4.0"
-    runnerVersion = "1.0.0"
-    hamcrestVersion = "1.3"
 }
